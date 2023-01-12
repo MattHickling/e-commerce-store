@@ -1,3 +1,15 @@
+##E-Commerce Site
+
+This is a fictitious e-commerce site.
+
+It was built using React-Readux and styled with Semantic UI React
+
+#Funtionality
+
+You can scroll through the items within the store
+Select Individual items
+Add items to basket
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
