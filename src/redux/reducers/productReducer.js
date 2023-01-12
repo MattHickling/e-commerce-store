@@ -1,4 +1,3 @@
-import { Action } from "@remix-run/router";
 import { ActionTypes } from "../constants/action-types";
 
 const initialState = {
